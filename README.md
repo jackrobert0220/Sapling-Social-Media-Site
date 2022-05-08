@@ -6,6 +6,7 @@ Helena Markus - [github](https://github.com/helenamarkus14), [LinkedIn](https://
 Jihye Kwak - [github](https://github.com/jihyekwak), [LinkedIn](https://www.linkedin.com/in/jihye-kwak/)  
 Jack Glazer - [github](https://github.com/jackrobert0220), [LinkedIn](https://www.linkedin.com/in/jack-glazer/)  
 Michelle Bahan - [github](https://github.com/mbahan1), [LinkedIn](linkedin.com/in/michelle-bahan/)  
+<img width="1278" alt="Screen Shot 2022-03-09 at 5 29 41 PM" src="https://user-images.githubusercontent.com/91999893/167305992-d70bb687-b33e-4c1e-a132-6185c6e1446d.png">
 
 ## Project Description
 Sapling is a class assigned social media site. We chose to make ours about putting positive energy into the world in the form of personal manifestation posts that other users can see, comment on and upvote, as well as giving users random fun and helpful bits of advice on their profile if they need some inspiration. It is meant to invoke calm and encourage personal positivity and growth.
